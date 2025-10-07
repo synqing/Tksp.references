@@ -1,7 +1,5 @@
 # Ignore everything by default
 *
 !.gitignore
-!/T-Keyboard-S3-Pro-arduino-esp32-libs_V2.0.14 2/
-!/T-Keyboard-S3-Pro-arduino-esp32-libs_V2.0.14 2/**
 !/T-Keyboard-S3-Pro-stm32cubeg0-firmware-package_V1.6.2/
 !/T-Keyboard-S3-Pro-stm32cubeg0-firmware-package_V1.6.2/**
